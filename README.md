@@ -1,4 +1,4 @@
-# Learn PR
+# Learn about PR
 This repository contains a list of members participating in Hacktoberfest Guwahati.
 
 ## Instructions
